@@ -21,9 +21,9 @@ const PrayerSection = (props: PrayerProps) => {
                   alt="ico-flower"
                   className="ico-flower mb-5"
                 />
-                <Card.Title className="title text-center mt-5 mb-5">
-                 Bismillahirrahmanirrahim
-                </Card.Title>
+              <Card.Title className="text-center mt-5 mb-5 text-base text-white font-bold tracking-wide">
+                Bismillahirrahmanirrahim
+              </Card.Title>
                 <Card.Text className="text text-center mb-5 px-5">
                   “Dan diantara tanda-tanda kekuasaan-Nya ialah diciptakan Nya
                   untukmu pasangan hidup dari jenismu sendiri supaya kamu

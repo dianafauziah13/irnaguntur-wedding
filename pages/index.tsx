@@ -113,7 +113,7 @@ React.useEffect(() => {
     <>
       {showCover ? (
         <FrontCover
-          femaleName="Irna Khaleda N"
+          femaleName="Irna Khaleda"
           maleName="Guntur Satria"
           guestName={guestName}
           place={placeName}
