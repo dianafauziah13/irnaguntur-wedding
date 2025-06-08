@@ -26,7 +26,7 @@ const FooterSection = (props: FooterProps) => {
             <div className="copyright">
               <div className="content">
                 <p className="text-white text-center">
-                  Build with &#10084; | &copy; Diana Fauziah 
+                  Music By Satria Petir<br/>Build with &#10084; | &copy; Diana Fauziah 
                 </p>
                 <div className="d-flex justify-content-center">
                   <a href="https://www.linkedin.com/in/diana-fauziah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
